@@ -1,3 +1,0 @@
-/Users/mohamed/Desktop/projects/github/repos/maplang/build/CMakeFiles/maplang.dir
-/Users/mohamed/Desktop/projects/github/repos/maplang/build/CMakeFiles/edit_cache.dir
-/Users/mohamed/Desktop/projects/github/repos/maplang/build/CMakeFiles/rebuild_cache.dir
