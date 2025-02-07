@@ -90,6 +90,9 @@ FEATURES:
 
 
 
+- [.] Implement readme.md and docs
+
+    - [.] make and work on the main readme.md
 
 
 
@@ -105,29 +108,6 @@ FEATURES:
 
 
 
-
-
- - [] Implement MapGuiKit
-
-    - Note: after successfully implementing import, while and for loops and getting code execution, start the development of the MapGuiKit
-
-
-    - [] create a small opengl app to learn about the Library
-
-    - [] Implement the VStack Component
-
-    - [] Implement the HStack Component
-
-    - [] Implement the MapGuiKit navigation structs and methods
-
-    - [] Implement the Button Component
-
-    - [] Implement the Input Component
-
-
- - Note: since MapGuiKit is an independent c gui kit publish it on github with it's own directory.
-
- - MapGuiKit is an elegant modern pure c Gui Development Kit built on top of opengl
 
 
 
